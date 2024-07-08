@@ -1,0 +1,14 @@
+__pycache__
+archive/
+Data/
+*.csv
+*.wav
+*.doc
+*.docx
+*.spec
+output/
+archive/
+sample.py
+venv/
+build/
+dist/
